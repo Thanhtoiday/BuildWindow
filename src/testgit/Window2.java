@@ -30,6 +30,8 @@ public class Window2 extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
+        jLabel1.setBackground(java.awt.Color.red);
+        jLabel1.setForeground(java.awt.Color.red);
         jLabel1.setText("This is window 2");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
