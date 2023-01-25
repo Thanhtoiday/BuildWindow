@@ -81,7 +81,7 @@ public class Window1 extends javax.swing.JFrame {
         var w1 = new window();
         w1.setVisible(true);
     }//GEN-LAST:event_jButton1ActionPerformed
-
+//abcxyz
     /**
      * @param args the command line arguments
      */
